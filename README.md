@@ -4,3 +4,7 @@
 <a href="https://codeclimate.com/github/okataki228/python-project-49/maintainability">
     <img src="https://api.codeclimate.com/v1/badges/your_badge_id/maintainability" />
 </a>
+
+## Демонстрация игры "Арифметическая прогрессия"
+
+[https://asciinema.org/a/5H3yf2Ebxbi0cAP2IOnGOaKLc](https://asciinema.org/a/5H3yf2Ebxbi0cAP2IOnGOaKLc)
