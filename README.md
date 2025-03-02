@@ -5,6 +5,16 @@
     <img src="https://api.codeclimate.com/v1/badges/your_badge_id/maintainability" />
 </a>
 
-## Демонстрация игры "Арифметическая прогрессия"
-
+"8задание" ## Демонстрация игры "Арифметическая прогрессия"
 [https://asciinema.org/a/5H3yf2Ebxbi0cAP2IOnGOaKLc](https://asciinema.org/a/5H3yf2Ebxbi0cAP2IOnGOaKLc)
+
+
+"5задание" ## Пример работы игры "Brain Even"
+[Демонстрация игры "Brain Even"](https://asciinema.org/a/fkCW34NMDbGS6G5zxe1S5IcrL)
+
+
+"6задание" ## Пример работы игры "Brain Calc"
+[Демонстрация игры "Brain Calc"](https://asciinema.org/a/TFn2UHCFmd1Kl8v37jzPoiS0X)
+
+"7задание" ## Пример работы игры "Brain GCD" (НОД)
+[Демонстрация игры "Brain GCD"](https://asciinema.org/a/SdJHWYD7dacyOIw72aTMxqRLG)
