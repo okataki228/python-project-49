@@ -18,3 +18,6 @@
 
 "7задание" ## Пример работы игры "Brain GCD" (НОД)
 [Демонстрация игры "Brain GCD"](https://asciinema.org/a/SdJHWYD7dacyOIw72aTMxqRLG)
+
+"9задание" ## Пример работы игры "brain-prime"
+[Демонстрация игры "brain-prime"](https://asciinema.org/a/RP2oEiN8WvhsSQGaXwAVVhe8F)
