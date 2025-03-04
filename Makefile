@@ -1,4 +1,4 @@
 lint:
-    poetry run ruff check hexlet_code
+	poetry run ruff check hexlet_code
 
 
