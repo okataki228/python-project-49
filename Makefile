@@ -1,3 +1,4 @@
 lint:
-	poetry run ruff check brain_games
+    poetry run ruff check hexlet_code
+
 

@@ -10,7 +10,7 @@ authors = ["Leon Podlesnij <leonpodlesny@gmail.com>"]
 readme = "README.md"
 
 packages = [
-  { include = "brain_games" },
+  { include = "hexlet_code" },
 ]
 
 [tool.poetry.dependencies]
