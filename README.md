@@ -2,7 +2,12 @@
 [![Actions Status](https://github.com/okataki228/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/okataki228/python-project-49/actions)
 ### Maintainability Status:
 <a href="https://codeclimate.com/github/okataki228/python-project-49/maintainability">
-    <img src="https://api.codeclimate.com/v1/badges/your_badge_id/maintainability" />
+    <img src="https://api.codeclimate.com/v1/badges/4f3a869d06491840dd75/maintainability" />
+</a>
+
+### Test Coverage Status:
+<a href="https://codeclimate.com/github/okataki228/python-project-49/test_coverage">
+    <img src="https://api.codeclimate.com/v1/badges/4f3a869d06491840dd75/test_coverage" />
 </a>
 
 "8задание" ## Демонстрация игры "Арифметическая прогрессия"
